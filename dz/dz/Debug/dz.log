@@ -1,0 +1,31 @@
+﻿  dz.cpp
+C:\Users\Степан\Desktop\dz\dz\dz.cpp(190,39): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Степан\Desktop\dz\dz\dz.cpp(191,34): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Степан\Desktop\dz\dz\dz.cpp(193,34): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Степан\Desktop\dz\dz\dz.cpp(194,39): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Степан\Desktop\dz\dz\dz.cpp(196,71): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Степан\Desktop\dz\dz\dz.cpp(197,50): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Степан\Desktop\dz\dz\dz.cpp(197,25): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Степан\Desktop\dz\dz\dz.cpp(199,71): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Степан\Desktop\dz\dz\dz.cpp(199,49): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Степан\Desktop\dz\dz\dz.cpp(201,69): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Степан\Desktop\dz\dz\dz.cpp(201,47): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Степан\Desktop\dz\dz\dz.cpp(234,39): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Степан\Desktop\dz\dz\dz.cpp(235,34): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Степан\Desktop\dz\dz\dz.cpp(237,34): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Степан\Desktop\dz\dz\dz.cpp(238,39): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Степан\Desktop\dz\dz\dz.cpp(240,71): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Степан\Desktop\dz\dz\dz.cpp(241,50): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Степан\Desktop\dz\dz\dz.cpp(241,25): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Степан\Desktop\dz\dz\dz.cpp(243,71): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Степан\Desktop\dz\dz\dz.cpp(243,49): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Степан\Desktop\dz\dz\dz.cpp(245,55): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Степан\Desktop\dz\dz\dz.cpp(245,40): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Степан\Desktop\dz\dz\dz.cpp(279,46): warning C4305: +=: усечение из "double" в "float"
+C:\Users\Степан\Desktop\dz\dz\dz.cpp(280,46): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Степан\Desktop\dz\dz\dz.cpp(280,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Степан\Desktop\dz\dz\dz.cpp(282,53): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Степан\Desktop\dz\dz\dz.cpp(282,38): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Степан\Desktop\dz\dz\dz.cpp(284,51): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Степан\Desktop\dz\dz\dz.cpp(284,36): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  dz.vcxproj -> C:\Users\Степан\Desktop\dz\Debug\dz.exe
